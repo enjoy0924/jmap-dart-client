@@ -19,7 +19,7 @@ dependencies:
 
   dio: 5.0.0
 
-  json_annotation: 4.8.0
+  json_annotation: ^4.8.1
 
   build_runner: 2.4.14
 
